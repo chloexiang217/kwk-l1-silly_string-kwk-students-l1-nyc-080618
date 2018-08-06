@@ -1,7 +1,7 @@
 
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = "beautiful"
+your_favorite_word = "Beautiful"
 
 puts "Beautiful is #{your_favorite_word}"
 
